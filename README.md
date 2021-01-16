@@ -2,8 +2,13 @@
 - This project was submitted in a 24-hour hackathon, in collaboration with Lee Yu Hao and Richard Ng from Singapore Management University
 - This README is based on the write-up by Richard over here: https://devpost.com/software/team-unfv54
 
+![Meet & Eat Thumbnail](./meet_&_eat_thumbnail.png)
 ![Meet & Eat Landing Page](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/326/528/datas/original.jpg)
+
+<!---
 ![Meet & Eat Landing Page](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/326/672/datas/original.jpg)
+-->
+
 
 ### Inspiration
 
